@@ -21,7 +21,6 @@ export const publicationData: Publication[] = [
 ];
 ```
 
-
 To update your website, you can simply add objects to the array.
 
 The schemas are defined in the same files, and many fields are optional for flexibility:
