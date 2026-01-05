@@ -10,21 +10,19 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
-    date: "Summer 2023",
-    title: "Research Intern",
-    company: "DeepMind",
+    date: "Summer 2022",
+    title: "Inbound Logistics Specialist",
+    company: "Samsung Electronics",
     description:
-      "Developed novel algorithms for causal structure learning in reinforcement learning settings",
-    advisor: "Peter Wang",
-    companyUrl: "https://deepmind.com",
+      "Enhanced inventory efficiency by minimizing excess stock and improving fulfillment rates for backordered orders.",
+    companyUrl: "https://www.samsung.com/us/",
   },
   {
     date: "Summer 2022",
-    title: "Research Intern",
-    company: "Google Research",
+    title: "Logistics Executive Intern",
+    company: "L'Oreal",
     description:
-      "Worked on improving robustness of large language models to distribution shifts",
-    manager: "Elise Brown",
-    companyUrl: "https://google.com",
+      "Created an end-to-end delivery tracking and SLA performance analysis solution using Excel Power Query and Power BI, identifying reconciliation gaps across logistics systems to improve order accuracy and reduce fulfillment delays.",
+    companyUrl: "https://www.loreal.com/en/",
   },
 ];
