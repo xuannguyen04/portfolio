@@ -28,7 +28,7 @@ export const aboutMe: AboutMe = {
   imageUrl:
     "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   githubUsername: "xuannguyen04",
-  linkedinUsername: "xuannguyen04",
+  linkedinUsername: "xuannguyen411",
   blogUrl: "https://",
   cvUrl: "https://",
   institutionUrl: "https://www.stanford.edu",
