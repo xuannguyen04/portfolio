@@ -42,6 +42,7 @@ export function ProfileSection({ aboutMe }: ProfileSectionProps) {
             {aboutMe.altName}
           </p>
         )}
+      <p className="text-zinc-600 text-xs leading-relaxed tracking-wide uppercase mb-6">
           {aboutMe.institutionUrl ? (
             <a
               href={aboutMe.institutionUrl}
