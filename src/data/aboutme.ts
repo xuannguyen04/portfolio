@@ -22,7 +22,7 @@ export const aboutMe: AboutMe = {
   institution: "University of Texas at Dallas",
   // Note that links work in the description
   description:
-    "I am a graduate student at the University of Texas at Dallas pursuing a Master’s degree in Business Analytics and Artificial Intelligence, with a strong foundation in Logistics and Supply Chain Management. I am actively seeking a full-time position where I can apply advanced data analytics, machine learning, and operational expertise to drive data-informed business decisions.",
+    "With a Master’s degree in Business Analytics and Artificial Intelligence, along with a strong foundation in Logistics and Supply Chain Management, I am actively seeking a full-time position where I can apply advanced data analytics, machine learning, and operational expertise to drive data-informed business decisions.",
   email: "khanhxuannguyen04@gmail.com",
   imageUrl:
     "https://snipboard.io/GO0Upm.jpg",
