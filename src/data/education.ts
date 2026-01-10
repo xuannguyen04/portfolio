@@ -12,7 +12,7 @@ export const educationData: Education[] = [
   {
     year: "2024—2025",
     institution: "University of Texas at Dallas",
-    degree: "M.S in Business of Analytics and Business Intelligence",
+    degree: "M.S in Business of Analytics and Artificial Intelligence",
   },
   {
     year: "2019—2022",
