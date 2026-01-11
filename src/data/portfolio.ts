@@ -48,5 +48,14 @@ export const portfolioData: Portfolio[] = [
     imageUrl:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIQziDJsoXUonXNK6Rcw5CHJ8UlkcDzCpEQ&s",
     codeUrl: "https://github.com/xuannguyen04/IMDB-review-topic-modeling-and-sentiment-analysis",
+  }, 
+    {
+    title: "Diabetes Prediction",
+    description:
+      "Performed EDA and feature engineering to build and evaluate multiple classification models for diabetes prediction. Achieved strong results with Logistic Regression, reaching an AUC of 0.823 and 75.2% accuracy.",
+    technologies: ["Python", "Logistics Regression", "SVC", "Random Forest"],
+    imageUrl:
+      "https://scitechdaily.com/images/Diabetes-Paper.jpg",
+    codeUrl: "https://github.com/xuannguyen04/diabetes-prediction-/blob/main/DiabetesML.ipynb",
   }
 ];
