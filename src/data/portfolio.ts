@@ -32,8 +32,7 @@ export const portfolioData: Portfolio[] = [
   {
     title: "NBA Prediction",
     description:
-      "Analyzed 16 years of historical NBA data, finding out shooting accuracy and rebounding percentage as critical performance indicators, which correlated with a 15% increase in home team wins when optimized, resulting in higher fan engagement and increased merchandise sales
-",
+      "Analyzed 16 years of historical NBA data, finding out shooting accuracy and rebounding percentage as critical performance indicators, which correlated with a 15% increase in home team wins when optimized, resulting in higher fan engagement and increased merchandise sales",
     technologies: ["Python", "Decision Tree", "Logistics Regression", "Linear SVM"],
     projectUrl: "https://drive.google.com/file/d/1LM8meHxFdcSC-ROWCf_S8zGqpAhPFXug/view?usp=sharing",
     imageUrl:
