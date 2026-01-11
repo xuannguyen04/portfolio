@@ -1,4 +1,3 @@
-import Image from "next/image";
 import {
   Github,
   Linkedin,
@@ -23,12 +22,10 @@ export function ProfileSection({ aboutMe }: ProfileSectionProps) {
       {aboutMe.imageUrl && (
         <div className="w-1/3 md:w-full flex-shrink-0">
           <div className="relative max-h-[45vh] md:w-[65%] aspect-[3/4]">
-            <Image
+            <img
               src={aboutMe.imageUrl}
               alt={aboutMe.name}
-              fill
-              priority
-              className="object-cover rounded-xl"
+              className="w-full h-full object-cover rounded-xl"
             />
           </div>
         </div>
