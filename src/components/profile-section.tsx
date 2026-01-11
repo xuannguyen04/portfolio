@@ -27,6 +27,7 @@ export function ProfileSection({ aboutMe }: ProfileSectionProps) {
               src={aboutMe.imageUrl}
               alt={aboutMe.name}
               fill
+              unoptimized
               priority
               className="object-cover rounded-xl"
             />
