@@ -30,10 +30,10 @@ export const portfolioData: Portfolio[] = [
     codeUrl: "https://github.com/xuannguyen04/supplier-order-database-management-",
   },
   {
-    title: "2.	Warehouse and Supplier Order Management System",
+    title: "NBA Prediction",
     description:
       "Applied logistic regression and decision tree models in R to analyze the World Happiness dataset, identifying key determinants of global happiness including healthy life expectancy and social support",
-    technologies: ["R", "Decision Tree", "Logistics Regression"],
+    technologies: ["Python", "Decision Tree", "Logistics Regression"],
     projectUrl: "https://cometmail-my.sharepoint.com/:p:/g/personal/chk210000_utdallas_edu/IQD5tpK1bT9jQbt31yhTqh_hAexgt5z92Mw_-5aM9skg1Os?e=0D5MEy",
     imageUrl:
       "https://img.freepik.com/free-photo/world-smile-day-emojis-arrangement_23-2149024492.jpg?semt=ais_hybrid&w=740&q=80",
