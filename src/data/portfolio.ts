@@ -22,7 +22,7 @@ export const portfolioData: Portfolio[] = [
   {
     title: "Warehouse and Supplier Order Management System",
     description:
-      "Applied logistic regression and decision tree models in R to analyze the World Happiness dataset, identifying key determinants of global happiness including healthy life expectancy and social support",
+      "Designed and implemented a normalized SQL database to manage warehouse inventory and supplier orders by tracking products, warehouses, and stock levels, resulting in accurate inventory monitoring and improved order management.",
     technologies: ["SQL", "ERD"],
     projectUrl: "https://cometmail-my.sharepoint.com/:p:/g/personal/xdn240000_utdallas_edu/IQAUarMSgdcRTqXCEu7qntnDAfuhIeolM7VPdJQLikJt4rY?e=8qAJVh",
     imageUrl:
