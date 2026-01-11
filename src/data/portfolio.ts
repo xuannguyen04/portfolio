@@ -12,7 +12,7 @@ export const portfolioData: Portfolio[] = [
   {
     title: "What Drives Happiness? ",
     description:
-      "A framework for discovering causal relationships in high-dimensional time series data using state-of-the-art machine learning techniques.",
+      "Applied logistic regression and decision tree models in R to analyze the World Happiness dataset, identifying key determinants of global happiness including healthy life expectancy and social support",
     technologies: ["R", "Decision Tree", "Logistics Regression"],
     projectUrl: "https://cometmail-my.sharepoint.com/:p:/g/personal/chk210000_utdallas_edu/IQD5tpK1bT9jQbt31yhTqh_hAexgt5z92Mw_-5aM9skg1Os?e=0D5MEy",
     imageUrl:
