@@ -40,13 +40,13 @@ export const portfolioData: Portfolio[] = [
     codeUrl: "https://github.com/xuannguyen04/nba-prediction/blob/main/NBA_Prediction_Group2_BUAN6341.ipynb",
   },
   {
-    title: "What Drives Happiness? ",
+    title: "Sentiment Analysis & Topic Modeling on IMDb Reviews",
     description:
-      "Applied logistic regression and decision tree models in R to analyze the World Happiness dataset, identifying key determinants of global happiness including healthy life expectancy and social support",
-    technologies: ["R", "Decision Tree", "Logistics Regression"],
-    projectUrl: "https://cometmail-my.sharepoint.com/:p:/g/personal/chk210000_utdallas_edu/IQD5tpK1bT9jQbt31yhTqh_hAexgt5z92Mw_-5aM9skg1Os?e=0D5MEy",
+      "Analyzed how three NLP preprocessing pipelines impact sentiment classification and topic modeling on movie reviews, comparing Logistic Regression with LDA vs. NMF. Found that a Unigrams + Bigrams pipeline combined with NMF delivered the best overall performance, achieving the highest F1-score and topic coherence while maintaining efficient runtime.",
+    technologies: ["Python", "NLP", "LDA", "NMF","pyLDAvis"],
+    projectUrl: "https://cometmail-my.sharepoint.com/:b:/g/personal/xdn240000_utdallas_edu/IQAyCvl4VG4iSaNEtb0tkD5rAdOq75eF6Mg8psaN93aw1eM?e=Aq9V2b",
     imageUrl:
-      "https://img.freepik.com/free-photo/world-smile-day-emojis-arrangement_23-2149024492.jpg?semt=ais_hybrid&w=740&q=80",
-    codeUrl: "https://github.com/xuannguyen04/what-drives-happiness/blob/main/Happiness_RNotebook(v2).Rmd",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIQziDJsoXUonXNK6Rcw5CHJ8UlkcDzCpEQ&s",
+    codeUrl: "https://github.com/xuannguyen04/IMDB-review-topic-modeling-and-sentiment-analysis",
   }
 ];
