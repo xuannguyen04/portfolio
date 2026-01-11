@@ -48,5 +48,14 @@ export const portfolioData: Portfolio[] = [
     imageUrl:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIQziDJsoXUonXNK6Rcw5CHJ8UlkcDzCpEQ&s",
     codeUrl: "https://github.com/xuannguyen04/IMDB-review-topic-modeling-and-sentiment-analysis",
+  }, 
+    {
+    title: "Diabetes Prediction",
+    description:
+      "Analyzed how three NLP preprocessing pipelines impact sentiment classification and topic modeling on movie reviews, comparing Logistic Regression with LDA vs. NMF. Found that a Unigrams + Bigrams pipeline combined with NMF delivered the best overall performance, achieving the highest F1-score and topic coherence while maintaining efficient runtime.",
+    technologies: ["Python", "Logistics Regression", "SVC", "Random Forest"],
+    imageUrl:
+      "https://scitechdaily.com/images/Diabetes-Paper.jpg",
+    codeUrl: "https://github.com/xuannguyen04/diabetes-prediction-/blob/main/DiabetesML.ipynb",
   }
 ];
