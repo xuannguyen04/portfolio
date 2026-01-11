@@ -52,7 +52,7 @@ export const portfolioData: Portfolio[] = [
     {
     title: "Diabetes Prediction",
     description:
-      "Analyzed how three NLP preprocessing pipelines impact sentiment classification and topic modeling on movie reviews, comparing Logistic Regression with LDA vs. NMF. Found that a Unigrams + Bigrams pipeline combined with NMF delivered the best overall performance, achieving the highest F1-score and topic coherence while maintaining efficient runtime.",
+      "Performed EDA and feature engineering to build and evaluate multiple classification models for diabetes prediction. Achieved strong results with Logistic Regression, reaching an AUC of 0.823 and 75.2% accuracy.",
     technologies: ["Python", "Logistics Regression", "SVC", "Random Forest"],
     imageUrl:
       "https://scitechdaily.com/images/Diabetes-Paper.jpg",
