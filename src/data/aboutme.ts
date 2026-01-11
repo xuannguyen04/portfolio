@@ -26,7 +26,7 @@ export const aboutMe: AboutMe = {
     "With a Master’s degree in Business Analytics and Artificial Intelligence, along with a strong foundation in Logistics and Supply Chain Management, I am actively seeking a full-time position where I can apply advanced data analytics, machine learning, and operational expertise to drive data-informed business decisions.",
   email: "khanhxuannguyen04@gmail.com",
   imageUrl:
-    "https://imgur.com/a/Lrlpg1g",
+    "https://imgur.com/a/Is6pYUb",
   githubUsername: "xuannguyen04",
   linkedinUsername: "xuannguyen411",
   cvUrl: "https://drive.google.com/file/d/1t5vwZRk4zyxJIB43d2yxDGX2APwXIW3W/view?usp=sharing",
