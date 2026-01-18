@@ -5,6 +5,7 @@ export interface Portfolio {
   imageUrl?: string;
   projectUrl?: string;
   codeUrl?: string;
+  vizUrl?: string;
 }
 
 export const portfolioData: Portfolio[] = [
@@ -57,5 +58,23 @@ export const portfolioData: Portfolio[] = [
     imageUrl:
       "https://scitechdaily.com/images/Diabetes-Paper.jpg",
     codeUrl: "https://github.com/xuannguyen04/diabetes-prediction-/blob/main/DiabetesML.ipynb",
+  }, 
+     {
+    title: "North Texas Logistics Case Competition",
+    description:
+      "Redesigned NT Logistics’ medical supply distribution network using targeted cross-docking and direct LTL shipments. The new network reduced annual distribution costs by nearly $400K, delivering a 17.4% cost savings.",
+    technologies: ["Excel", "Power Query","Power BI"],
+    imageUrl:
+      "https://www.shipbob.com/wp-content/uploads/2021/10/cross-docking.jpg",
+    vizUrl: "https://app.powerbi.com/links/mjsXLJ0zni?ctid=70de1992-07c6-480f-a318-a1afcba03983&pbi_source=linkShare",
+  }, 
+     {
+    title: "E-commerce Order Tracking Dashboard",
+    description:
+      "Developed a comprehensive tracking system using Power Query on Excel and Power BI to monitor end-to-end lead time delivery for all orders",
+    technologies: ["Excel", "Power Query","Power BI"],
+    imageUrl:
+      "https://cdn-icons-png.flaticon.com/512/3456/3456419.png",
+    vizUrl: "https://app.powerbi.com/links/5SjzSvGr3d?ctid=70de1992-07c6-480f-a318-a1afcba03983&pbi_source=linkShare&bookmarkGuid=713676ae-f0c6-48a6-8dc1-ac0822fd9ec3",
   }
 ];
