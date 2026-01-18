@@ -64,6 +64,7 @@ export const portfolioData: Portfolio[] = [
     description:
       "Redesigned NT Logistics’ medical supply distribution network using targeted cross-docking and direct LTL shipments. The new network reduced annual distribution costs by nearly $400K, delivering a 17.4% cost savings.",
     technologies: ["Excel", "Power Query","Power BI"],
+    projectUrl: "https://www.canva.com/design/DAFSo_V_ayo/U8BsnC-9oNcigqOs4xPI_w/edit?utm_content=DAFSo_V_ayo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
     imageUrl:
       "https://www.shipbob.com/wp-content/uploads/2021/10/cross-docking.jpg",
     vizUrl: "https://app.powerbi.com/links/mjsXLJ0zni?ctid=70de1992-07c6-480f-a318-a1afcba03983&pbi_source=linkShare",
