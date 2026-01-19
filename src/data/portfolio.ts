@@ -67,7 +67,7 @@ export const portfolioData: Portfolio[] = [
     projectUrl: "https://www.canva.com/design/DAFSo_V_ayo/U8BsnC-9oNcigqOs4xPI_w/edit?utm_content=DAFSo_V_ayo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
     imageUrl:
       "https://www.shipbob.com/wp-content/uploads/2021/10/cross-docking.jpg",
-    vizUrl: "https://app.powerbi.com/links/mjsXLJ0zni?ctid=70de1992-07c6-480f-a318-a1afcba03983&pbi_source=linkShare",
+    vizUrl: "https://app.powerbi.com/view?r=eyJrIjoiOWM5NGRmZGQtMTMzZC00OTI4LTgxYjUtNDA3MjU5OGJjNGQ0IiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9",
   }, 
      {
     title: "E-commerce Order Tracking Dashboard",
@@ -76,6 +76,6 @@ export const portfolioData: Portfolio[] = [
     technologies: ["Excel", "Power Query","Power BI"],
     imageUrl:
       "https://cdn-icons-png.flaticon.com/512/3456/3456419.png",
-    vizUrl: "https://app.powerbi.com/links/5SjzSvGr3d?ctid=70de1992-07c6-480f-a318-a1afcba03983&pbi_source=linkShare&bookmarkGuid=713676ae-f0c6-48a6-8dc1-ac0822fd9ec3",
+    vizUrl: "https://app.powerbi.com/view?r=eyJrIjoiY2FhYTNhMTgtZGNkZS00Mzc2LWJiN2QtNTM1ZDJiMGYzNmE2IiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9",
   }
 ];
