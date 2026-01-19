@@ -72,6 +72,18 @@ export function PortfolioEntry({ portfolio }: { portfolio: Portfolio }) {
               <span className="tracking-wider uppercase">Code</span>
             </a>
           )}
+          {portfolio.vizUrl && (
+            <a
+              href={portfolio.vizUrl}
+              className="group inline-flex items-center gap-2 text-xs text-zinc-500 hover:text-zinc-900 transition-colors duration-300"
+            >
+              <ArrowUpRight
+                size={12}
+                className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-300"
+              />
+              <span className="tracking-wider uppercase">Visual</span>
+            </a>
+          )}
         </div>
         <p className="text-sm text-zinc-600 mb-4 mt-4 italic">
           {portfolio.description}
