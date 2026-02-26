@@ -18,7 +18,7 @@ export const experienceData: Experience[] = [
     companyUrl: "https://www.samsung.com/us/",
   },
   {
-    date: "Summer 2022",
+    date: "Jun 2021 -  Aug 2022",
     title: "Logistics Executive Intern",
     company: "L'Oreal",
     description:
