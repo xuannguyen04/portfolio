@@ -33,7 +33,7 @@ export const aboutMe: AboutMe = {
   imageSrc: avatar,
   githubUsername: "xuannguyen04",
   linkedinUsername: "xuannguyen411",
-  cvUrl: "https://drive.google.com/file/d/1t5vwZRk4zyxJIB43d2yxDGX2APwXIW3W/view?usp=sharing",
+  cvUrl: "https://drive.google.com/file/d/1Amify8cdRU9PlvGPct26JxH0x-v4-4ti/view?usp=sharing",
   institutionUrl: "https://www.utdallas.edu/",
   // altName: "",
   // secretDescription: "I like dogs.",
